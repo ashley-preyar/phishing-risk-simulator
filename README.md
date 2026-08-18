@@ -5,7 +5,7 @@ organization over 12 weeks, built on IO psychology and behavioral science princi
 
 ## Overview
 Models employee phishing susceptibility using Big Five personality traits 
-(conscientiousness, risk tolerance), stress-urgency interaction effects, and 
+(conscientiousness), stress-urgency interaction effects, and 
 separate knowledge vs. vigilance decay curves.
 
 ## Key Features
