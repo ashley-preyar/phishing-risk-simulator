@@ -4,8 +4,7 @@ Agent-based simulation modeling phishing susceptibility across a 100-person
 organization over 12 weeks, built on IO psychology and behavioral science principles.
 
 ## Overview
-Models employee phishing susceptibility using Big Five personality traits 
-(conscientiousness), stress-urgency interaction effects, and 
+Models employee phishing susceptibility using personality/behavioral traits including conscientiousness and risk tolerance, stress-urgency interaction effects, and 
 separate knowledge vs. vigilance decay curves.
 
 ## Key Features
