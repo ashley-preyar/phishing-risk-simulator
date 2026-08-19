@@ -46,4 +46,4 @@ applies to human risk modeling in cybersecurity contexts.
 python3 simulation.py
 
 ## Development Notes
-This project was designed and developed by Ashley Preyar. AI-assisted tools were used during implementation (e.g., Claude, ChatGPT). 
+This project was designed and iterated using AI tools to assist with script implementation and refinement. Variable selection, behavioral methodology, and analysis reflect the author’s own work and judgment.
