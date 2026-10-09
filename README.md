@@ -3,7 +3,7 @@
 Agent-based simulation modeling phishing susceptibility across a 100-person simulated organization over 12 weeks, exploring how I-O psychology and behavioral science concepts apply to human risk in cybersecurity.
 
 ## Overview
-Models employee phishing susceptibility using personality/behavioral traits (conscientiousness and risk tolerance), stress-urgency interaction effects, authority-based email characteristics, and knowledge vs. vigilance decay curves. A simulated SOC detection layer operates independently of the behavioral model.
+Models employee phishing susceptibility using personality/behavioral traits (conscientiousness and risk tolerance), stress-urgency interaction effects, authority-based email characteristics, and knowledge vs. awareness decay curves. A simulated SOC detection layer operates independently of the behavioral model.
 
 ## Key Features
 - 100 agent employees with unique personality profiles
