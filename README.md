@@ -1,10 +1,9 @@
 # Phishing Risk Simulator
 
-Agent-based simulation modeling phishing susceptibility across a 100-person 
-organization over 12 weeks, built on IO psychology and behavioral science principles.
+Agent-based simulation modeling phishing susceptibility across a 100-person simulated organization over 12 weeks, exploring how I-O psychology and behavioral science concepts apply to human risk in cybersecurity.
 
 ## Overview
-Models employee phishing susceptibility using personality/behavioral traits including conscientiousness and risk tolerance, stress-urgency interaction effects, and knowledge vs. vigilance decay curves.
+Models employee phishing susceptibility using personality/behavioral traits (conscientiousness and risk tolerance), stress-urgency interaction effects, authority-based email characteristics, and knowledge vs. vigilance decay curves. A simulated SOC detection layer operates independently of the behavioral model.
 
 ## Key Features
 - 100 agent employees with unique personality profiles
@@ -33,9 +32,7 @@ Models employee phishing susceptibility using personality/behavioral traits incl
 | 12   | urgent        | 31     | 18            | 10        | 11                   |
 
 ## Background
-Built as a portfolio project bridging an MA in IO Psychology with a 
-Security+ certification. Designed to demonstrate how behavioral science 
-applies to human risk modeling in cybersecurity contexts.
+Built as a portfolio project connecting an MA in Industrial-Organizational Psychology with a CompTIA Security+ certification. The goal is to explore how behavioral science can inform security awareness training and human risk analysis.
 
 ## Requirements
 - Python 3.x
@@ -46,4 +43,7 @@ applies to human risk modeling in cybersecurity contexts.
 python3 simulation.py
 
 ## Development Notes
-This project was designed and iterated using AI tools to assist with script implementation and refinement. Variable selection, behavioral methodology, and analysis reflect the author’s own work and judgment.
+This project was built using AI tools, which suggested the model variables and wrote the Python implementation. The author ran the simulation, reviewed the outputs, evaluated the model's assumptions using I-O psychology knowledge, and wrote the findings and security awareness recommendations.
+
+## Limitations
+Results reflect the assumptions built into the model and use simulated data. They illustrate how these factors could interact and are not evidence about real-world employee behavior.
